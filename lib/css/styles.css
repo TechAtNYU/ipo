@@ -579,7 +579,7 @@ dl .item {
     position: relative;
     max-width: 58em;
     margin-left: 50px;
-    margin-right: auto;
+    margin-right: 50px;
   }
   .startup__mask {
     height: auto;
