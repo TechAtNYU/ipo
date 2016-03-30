@@ -1,7 +1,7 @@
 name: Startup Week
 markdown: redcarpet
 timezone: "America/New_York"
-exclude: ["circle.yml", "README.md", "requirements.txt", "venv", vendor]
+exclude: ["circle.yml", "README.md", "requirements.txt", "venv", "Gemfile", "Gemfile.lock", vendor]
 
 collections:
   events:
