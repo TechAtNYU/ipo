@@ -155,7 +155,7 @@ button {
   -o-transition: color 0.5s ease-in-out;
   transition: color 0.5s ease-in-out;
 }
-.startup__mask {
+.ipo__mask {
   position: relative;
   overflow: hidden;
   background-image: url(/lib/img/crane-bg.png);
@@ -164,10 +164,10 @@ button {
   background-repeat: no-repeat;
   background-color: #eee;
 }
-.startup__mask img {
+.ipo__mask img {
   display: none;
 }
-.startup__one {
+.ipo__one {
   font-family: "Input Mono Comp", 'Input Mono Compressed', "Helvetica";
   font-weight: 300;
   line-height: 0.55;
@@ -177,7 +177,7 @@ button {
   position: relative;
   top: .15em;
 }
-.startup__one::after {
+.ipo__one::after {
   content: "Press";
   position: absolute;
   top: -0.04em;
@@ -519,7 +519,7 @@ dl .item {
     background-color: #eee;
     content: ' ';
   }
-  .startup__mask,
+  .ipo__mask,
   .logo,
   .info {
     z-index: 2;
@@ -541,10 +541,10 @@ dl .item {
     padding-left: .5em;
     content: "|";
   }
-  .startup__one {
+  .ipo__one {
     color: rgba(215, 85, 45, 0.85);
   }
-  .startup__one::after {
+  .ipo__one::after {
     color: rgba(21, 42, 91, 0.85);
   }
   section:nth-child(3) h2 {
@@ -581,12 +581,12 @@ dl .item {
     margin-left: 50px;
     margin-right: 50px;
   }
-  .startup__mask {
+  .ipo__mask {
     height: auto;
     height: 26vw;
     padding: 2em 0;
   }
-  .startup__one {
+  .ipo__one {
     top: 0em;
     left: 0em;
     line-height: .5em;
@@ -699,7 +699,7 @@ dl .item {
   .sw__event {
     width: 25%;
   }
-  .startup__one {
+  .ipo__one {
     margin-top: 50px;
   }
   .section__righttype {
@@ -758,7 +758,7 @@ dl .item {
   }
 }
 @media only screen and (min-width: 40em) and (max-width: 54em) {
-  .startup__mask,
+  .ipo__mask,
   .info,
   body::after {
     height: 24em;
@@ -777,7 +777,7 @@ dl .item {
   body {
     line-height: 1.6;
   }
-  .startup__mask,
+  .ipo__mask,
   .info,
   body::after {
     height: 23em;
@@ -792,7 +792,7 @@ dl .item {
   }
 }
 @media only screen and (min-width: 80em) {
-  .startup__mask,
+  .ipo__mask,
   .info,
   body::after {
     height: 22em;
@@ -847,7 +847,7 @@ dl .item {
     color: inherit;
     text-decoration: none;
   }
-  .startup__mask {
+  .ipo__mask {
     display: block;
     float: left;
     width: 4in;
@@ -855,11 +855,11 @@ dl .item {
     height: 8in;
     position: relative;
   }
-  .startup__mask img {
+  .ipo__mask img {
     display: block;
     position: absolute;
   }
-  .startup__one::after {
+  .ipo__one::after {
     height: 2.35in;
     margin-top: 1in;
     margin-left: 0.5in;
@@ -867,7 +867,7 @@ dl .item {
     left: 3in;
     content: "tup";
   }
-  .startup__one {
+  .ipo__one {
     position: static;
     overflow: hidden;
     font-family: "Input Mono Comp", 'Input Mono Compressed', "Helvetica";
