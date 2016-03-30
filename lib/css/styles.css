@@ -575,6 +575,12 @@ dl .item {
   }
 }
 @media only screen and (max-width: 40em) {
+  .container {
+    position: relative;
+    max-width: 58em;
+    margin-left: 50px;
+    margin-right: auto;
+  }
   .startup__mask {
     height: auto;
     height: 26vw;
@@ -665,6 +671,12 @@ dl .item {
 @media only screen and (min-width: 40em) {
   .info {
     padding-top: 12em;
+  }
+  .container {
+    position: relative;
+    max-width: 58em;
+    margin-left: 58px;
+    margin-right: 58px;
   }
   .info p,
   .info ul {
