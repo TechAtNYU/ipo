@@ -694,7 +694,7 @@ dl .item {
     max-width: 35em;
     width: 62%;
     box-sizing: border-box;
-    margin-top: 4em;
+    margin-top: 1em;
     padding-right: 2em;
     overflow: visible;
   }
@@ -783,7 +783,7 @@ dl .item {
   .startup__mask,
   .info,
   body::after {
-    height: 25em;
+    height: 22em;
   }
 }
 @media print {
