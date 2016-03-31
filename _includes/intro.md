@@ -2,7 +2,7 @@ On April 1st, 2016, Tech@NYU is pleased to announce that after receiving our Z r
 
 ![Stock ticker](/lib/img/stock-ticker.png)
 
-Thank you for all of your support. [Buy stock in Tech@NYU now](https://venmo.com/?txn=pay&recipients=techatnyu&amount=10&note=for%20going%20public!!!!&audience=public)!
+Thank you for all of your support. [Buy stock in Tech@NYU now](https://venmo.com/?txn=pay&recipients=techatnyu&amount=10&note=for%20going%20public!!!!&audience=public) and [read more about our IPO on Huffington Post](http://www.huffingtonpost.com/sanjna-verma/ipoed-technyu-offering-th_b_9577970.html?)!
 
 -Terri Burns, CEO.
 
